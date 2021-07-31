@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322138945363",
+    "project_id": "deliverydoshleda-305b6",
+    "storage_bucket": "deliverydoshleda-305b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322138945363:android:716c798c3a7a354f7253a6",
+        "android_client_info": {
+          "package_name": "com.example.deliverydoshelda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322138945363-nehgi2eiqpvlbv3mfkuc8irec20kqasl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiH8EMRqKoPnUz72hptLrZh4Nw9lDwq80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322138945363-nehgi2eiqpvlbv3mfkuc8irec20kqasl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
